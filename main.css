@@ -39,14 +39,14 @@
 }
 
 .icon {
-    width:50px; 
+    width:75px; 
     margin:auto; 
     border-radius:50%;  
  
 }
 
 p > img {
-     border: 1px solid #FF4500;
+     border: 1px solid #7B68EE;
      padding: 5px;
      width: 150px;
 }
@@ -73,10 +73,10 @@ header #me {
   text-shadow: 5px 8px 0 steelBlue;
   
     /*3d text-shadow */
-  text-shadow: 0 1px 0 #FF4500,
+  text-shadow: 0 1px 0 #7B68EE,
                0 2px 0 #c9c9c9,
                0 3px 0 #bbb,
-               0 4px 0 #b9b9b9,
+               0 4px 0 #6A5ACD,
                0 5px 0 #aaa,
                0 6px 1px rgba(0,0,0,.1),
                0 0 5px rgba(0,0,0,.1),
