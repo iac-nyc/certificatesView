@@ -7,3 +7,4 @@ I am a lifelong learner because I believe in continuous improvement.
 This project shows the list of certificates I have earned from various online courses.
 
 ```
+![Page View](pg.png)
