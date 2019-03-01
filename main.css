@@ -21,6 +21,19 @@
   height: 0;
 }
 
+
+
+a  img {
+  
+    transition: transform .3s;
+
+}
+a  img:hover {
+  transform: scale(1.2);
+}
+
+
+
 .certificates {
     display: inline-block;
     border-radius: 8px;
