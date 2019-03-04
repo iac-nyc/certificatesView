@@ -2048,14 +2048,14 @@ ul.filter-select button:after {
   background: #d1d6d9;
 }
 
-#photos li {
+.photos li {
   margin: 30px 0 0;
   vertical-align: middle;
 }
-#photos li:before {
+.photos li:before {
   display: none;
 }
-#photos .image {
+.photos .image {
   display: block;
   min-height: 240px;
   background: #edeff0;
@@ -2071,16 +2071,16 @@ ul.filter-select button:after {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
-#photos .image:hover {
+.photos .image:hover {
   background: #dfe3e4;
 }
-#photos .image:before {
+.photos .image:before {
   content: "";
   display: inline-block;
   height: 100%;
   vertical-align: middle;
 }
-#photos img {
+.photos img {
   border-style: ridge;
   max-width: 80%;
   max-height: 200px;
