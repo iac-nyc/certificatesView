@@ -707,9 +707,12 @@ body {
   }
 }
 @media screen and (max-width: 400px) {
+/*
   @-ms-viewport {
-    width: 320px;
+ 
 }
+*/
+       width: 320px;
 }
 @media screen and (max-width: 680px) {
   .clear {
