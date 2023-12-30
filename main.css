@@ -22,7 +22,7 @@
 }
 
 hr.dot {
-  border-top: 1px dashed #40E0D0;
+  border-top: 1px dashed #7B68EE;
 }
 
 a  img {
@@ -34,7 +34,9 @@ a  img:hover {
   transform: scale(1.2);
 }
 
-
+a {
+  text-decoration: none;
+}
 
 
 .certificates {
