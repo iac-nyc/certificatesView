@@ -37,12 +37,33 @@ a  img:hover {
 a {
   text-decoration: none;
 }
+
 /*
 .btn-outline-info, .btn-outline-info:hover, .btn-outline-info:active, .btn-outline-info:visited {
     background-color: #7B68EE !important;
 }
 
-*/
+.carousel-inner img{
+    height: 260px;
+    width: 660px;
+    align-items: center;    
+    justify-content: center;
+    object-fit: cover;
+}
+.carousel-inner img{
+    height: 260px;
+    width: 660px;
+  
+    
+    justify-content: center;
+}
+
+.carousel-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}*/
 .certificates {
     display: inline-block;
     border-radius: 8px;
