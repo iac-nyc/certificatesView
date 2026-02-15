@@ -37,7 +37,11 @@ a  img:hover {
 a {
   text-decoration: none;
 }
-
+.zenith{
+    width: 80vw;
+    margin: 0 auto;
+    max-width: 80%;
+}
 /*
 .btn-outline-info, .btn-outline-info:hover, .btn-outline-info:active, .btn-outline-info:visited {
     background-color: #7B68EE !important;
